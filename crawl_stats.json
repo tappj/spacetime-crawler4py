@@ -1,0 +1,264 @@
+{
+  "unique_pages_count": 30,
+  "longest_page": {
+    "url": "https://ics.uci.edu/financial-aid-and-scholarships/undergraduate-financial-awards",
+    "word_count": 1365
+  },
+  "top_50_words": [
+    [
+      "ics",
+      246
+    ],
+    [
+      "research",
+      201
+    ],
+    [
+      "graduate",
+      166
+    ],
+    [
+      "undergraduate",
+      164
+    ],
+    [
+      "us",
+      151
+    ],
+    [
+      "student",
+      146
+    ],
+    [
+      "science",
+      132
+    ],
+    [
+      "computer",
+      131
+    ],
+    [
+      "programs",
+      115
+    ],
+    [
+      "faculty",
+      110
+    ],
+    [
+      "students",
+      108
+    ],
+    [
+      "learning",
+      97
+    ],
+    [
+      "access",
+      97
+    ],
+    [
+      "news",
+      97
+    ],
+    [
+      "computing",
+      95
+    ],
+    [
+      "irvine",
+      92
+    ],
+    [
+      "information",
+      88
+    ],
+    [
+      "uc",
+      83
+    ],
+    [
+      "donald",
+      80
+    ],
+    [
+      "bren",
+      80
+    ],
+    [
+      "community",
+      78
+    ],
+    [
+      "statistics",
+      75
+    ],
+    [
+      "series",
+      73
+    ],
+    [
+      "spotlights",
+      71
+    ],
+    [
+      "informatics",
+      68
+    ],
+    [
+      "seminar",
+      68
+    ],
+    [
+      "follow",
+      68
+    ],
+    [
+      "school",
+      66
+    ],
+    [
+      "admissions",
+      63
+    ],
+    [
+      "hall",
+      62
+    ],
+    [
+      "events",
+      61
+    ],
+    [
+      "view",
+      60
+    ],
+    [
+      "academic",
+      59
+    ],
+    [
+      "honors",
+      57
+    ],
+    [
+      "ai",
+      57
+    ],
+    [
+      "alumni",
+      56
+    ],
+    [
+      "design",
+      56
+    ],
+    [
+      "uci",
+      56
+    ],
+    [
+      "future",
+      53
+    ],
+    [
+      "home",
+      50
+    ],
+    [
+      "explore",
+      50
+    ],
+    [
+      "february",
+      50
+    ],
+    [
+      "professional",
+      49
+    ],
+    [
+      "department",
+      49
+    ],
+    [
+      "sciences",
+      48
+    ],
+    [
+      "data",
+      48
+    ],
+    [
+      "engineering",
+      46
+    ],
+    [
+      "industry",
+      45
+    ],
+    [
+      "restricted",
+      45
+    ],
+    [
+      "location",
+      45
+    ]
+  ],
+  "subdomains": {
+    "cs.ics.uci.edu": {
+      "count": 1,
+      "sample_urls": [
+        "https://cs.ics.uci.edu"
+      ]
+    },
+    "ics.uci.edu": {
+      "count": 22,
+      "sample_urls": [
+        "https://ics.uci.edu/academics/graduate-fellowships-funding",
+        "https://ics.uci.edu/student-experience/entrepreneurship-student-experience",
+        "https://ics.uci.edu/admissions-information-and-computer-science/graduate-admissions",
+        "https://ics.uci.edu/departments",
+        "https://ics.uci.edu/admissions-information-and-computer-science/admissions-process"
+      ]
+    },
+    "oai.ics.uci.edu": {
+      "count": 1,
+      "sample_urls": [
+        "https://oai.ics.uci.edu"
+      ]
+    },
+    "tutoring.ics.uci.edu": {
+      "count": 1,
+      "sample_urls": [
+        "https://tutoring.ics.uci.edu"
+      ]
+    },
+    "www.cs.uci.edu": {
+      "count": 1,
+      "sample_urls": [
+        "https://www.cs.uci.edu"
+      ]
+    },
+    "www.ics.uci.edu": {
+      "count": 2,
+      "sample_urls": [
+        "https://www.ics.uci.edu",
+        "https://www.ics.uci.edu/research-areas"
+      ]
+    },
+    "www.informatics.uci.edu": {
+      "count": 1,
+      "sample_urls": [
+        "https://www.informatics.uci.edu"
+      ]
+    },
+    "www.stat.uci.edu": {
+      "count": 1,
+      "sample_urls": [
+        "https://www.stat.uci.edu"
+      ]
+    }
+  }
+}
